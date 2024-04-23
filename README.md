@@ -2,6 +2,10 @@
 [![Build Status](https://gitlab.com/elgatito/plugin.video.elementum/badges/master/pipeline.svg?ignore_skipped=true)](https://gitlab.com/elgatito/plugin.video.elementum/-/pipelines)
 [![Join the chat at https://gitter.im/ElementumApp/Lobby](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ElementumApp/Lobby)
 
+About Fork:
+this fork was made because i didnt want to pay realdebrid, but wanted to use its caching and privacy.
+so i modified elementum for working with jacktorr instead, so i can self host jacktorr and use vpn on the jacktorr instance, while using my own internet at kodi. meaning full privacy and commodity.
+
 
 Support
 ----------
